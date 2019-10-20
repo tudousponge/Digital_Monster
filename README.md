@@ -12,14 +12,14 @@ Our group project of COMM7320!
 	4. The topics have to be related to those covered in this course. 
 
   # CBY：【持续更新中...】
-	1. Start with a media and communication phenomenon/problem (MCPP) that interests you. 
+## 1. Start with a media and communication phenomenon/problem (MCPP) that interests you. 
 	是什么引发了流言/假新闻的进一步传播？
 	在影响上，假新闻如何影响人们的日常生活？
 	应对如此状况，人们如何在后真相时代下做真假新闻的事实核查？
 	观察类真人秀如何影响generalized other的塑造？
-	2. Do some preliminary research and find out what has been done in academic research. 
+## 2. Do some preliminary research and find out what has been done in academic research. 
   
-# 是什么引发了流言/假新闻的进一步传播？
+### 是什么引发了流言/假新闻的进一步传播？
 
 	1.The increasing penetration of the internet provides a fertile ground for the spread of misinformation: “False information has always existed and fake news has been a part of online news since it began” (Brennan, 2017, p. 179).
 	From <https://journals-sagepub-com.lib-ezproxy.hkbu.edu.hk/doi/full/10.1177/0002764219869402>             
@@ -38,7 +38,7 @@ Our group project of COMM7320!
 	From <https://www.ntsec.edu.tw/LiveSupply-Content.aspx?cat=6840&a=6829&fld=&key=&isd=1&icop=10&p=1&lsid=14075> 
 	6. 
 
-# what is fake news?
+### what is fake news?
 	1. The former defines fake news either as “disinformation or falsehoods presented as real news” or “actual news that is claimed to be untrue,” while the latter defines it as “false, often sensational, information disseminated under the guise of news reporting.” 
 	2. Misinformation became Dictionary.com’s Word of the Year in 2018, which is defined as “false information that is spread, regardless of whether there is intent to mislead”  (Sherman, E. (2018, November 26). 
 	from (http://fortune.com/2018/11/26/misinformation-dictionary-com-word-year-misinformation-social-media-tech/)
@@ -58,7 +58,7 @@ Our group project of COMM7320!
 	
 	
 	
-# This review article examines 142 journal articles on fake news and misinformation published between 2008 and 2017 and the knowledge generated on the topic:
+### This review article examines 142 journal articles on fake news and misinformation published between 2008 and 2017 and the knowledge generated on the topic:
 Mapping Recent Development in Scholarship on Fake News and Misinformation, 2008 to 2017: Disciplinary Contribution, Topics, and Impact From(https://journals.sagepub.com/doi/10.1177/0002764219869402) 
 
 
