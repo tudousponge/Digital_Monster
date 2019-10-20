@@ -10,13 +10,12 @@ Our group project of COMM7320!
 	2. Do some preliminary research and find out what has been done in academic research. 
 	3. Think about possible topics of your article and what arguments or key messages you want to deliver. 
 	4. The topics have to be related to those covered in this course. 
-
-  # CBY：【持续更新中...】
+**CBY：持续更新中嗷...**
 ## 1. Start with a media and communication phenomenon/problem (MCPP) that interests you. 
 	是什么引发了流言/假新闻的进一步传播？
 	在影响上，假新闻如何影响人们的日常生活？
 	应对如此状况，人们如何在后真相时代下做真假新闻的事实核查？
-	观察类真人秀如何影响generalized other的塑造？
+	观察类真人秀如何影响个人的generalized other的塑造？
 ## 2. Do some preliminary research and find out what has been done in academic research. 
   
 ### 是什么引发了流言/假新闻的进一步传播？
@@ -61,6 +60,7 @@ Our group project of COMM7320!
 Mapping Recent Development in Scholarship on Fake News and Misinformation, 2008 to 2017: Disciplinary Contribution, Topics, and Impact From(https://journals.sagepub.com/doi/10.1177/0002764219869402) 
 
 ## 3. Think about possible topics of your article and what arguments or key messages you want to deliver. 
+[感觉和第一问类似]
 ## 4. The topics have to be related to those covered in this course. 
 ### The Spread of Fake News：
 1. Organizational communication
