@@ -26,16 +26,17 @@ Our group project of COMM7320!
 	2. False news spreads deeper and faster than authentic news due to humans rather than robots. 
 	(The spread of true and false news online From <https://science.sciencemag.org/content/359/6380/1146> )
 	3. People are excited by the novelty in false news and are more likely to spread it than robots
-	(The spread of true and false news online 
-        From <https://science.sciencemag.org/content/359/6380/1146> )
+	(The spread of true and false news online From <https://science.sciencemag.org/content/359/6380/1146> )
 	4. Social bots play a key role in the spread of fake news.
      (The spread of fake news by social bots  https://www.andyblackassociates.co.uk/wp-content/uploads/2015/06/fakenewsbots.pdf)
-	5. 媒介的引导作用。《后真相时代》：報紙常採用掩飾部分真相的新聞標題，藉以吸引讀者好奇的眼光，然後在較少人閱讀的正文內容，才還原完整真相；政治人物會使用化妝修飾的真相（spin truth），社運人士（activist）會採用最有利的真相，儘管有時候，那些真相並不足以代表全部。本書作者麥當納將溝通者分為三類：
+	5. 媒介的引导作用。《后真相时代》：報紙常採用掩飾部分真相的新聞標題，藉以吸引讀者好奇的眼光，然後在較少人閱讀的正文內容，才還原完整真相；政治人物會使用化妝修飾的真相（spin truth），社運人士（activist）會採用最有利的真相，儘管有時候，那些真相並不足以代表全部。
+	本書作者麥當納將溝通者分為三類：
 	（1）倡議者（advocate）：為了實現某個有益目標，選用矛盾真相來營造某種還算正確的現實印象；
 	（2）誤傳者（misinformer）：出於無知，散佈矛盾真相，卻在無意間扭曲了現實；
 	（3）誤導者（misleader）：故意利用矛盾真相，來製造某種自己明知不對的現實印象。
-         From <https://www.ntsec.edu.tw/LiveSupply-Content.aspx?cat=6840&a=6829&fld=&key=&isd=1&icop=10&p=1&lsid=14075> 
-	6.Algorithmic curation and personalization systems place users in a filter bubble of content that decreases their likelihood of encountering ideologically cross-cutting news content. [Fake news and ideological polarization: Filter bubbles and selective exposure on social media](https://journals.sagepub.com/doi/abs/10.1177/0266382117722446>）
+      （From https://www.ntsec.edu.tw/LiveSupply-Content.aspx?cat=6840&a=6829&fld=&key=&isd=1&icop=10&p=1&lsid=14075） 
+	6.Algorithmic curation and personalization systems place users in a filter bubble of content that decreases their likelihood of encountering ideologically cross-cutting news content. 
+	（Fake news and ideological polarization: Filter bubbles and selective exposure on social media https://journals.sagepub.com/doi/abs/10.1177/0266382117722446）
 
 ### what is fake news?
 	1. The former defines fake news either as “disinformation or falsehoods presented as real news” or “actual news that is claimed to be untrue,” while the latter defines it as “false, often sensational, information disseminated under the guise of news reporting.” 
@@ -53,7 +54,6 @@ Our group project of COMM7320!
 	7. Rochlin (2017) argues that fake news in the posttruth era replace facts with emotions. 
     From (https://journals-sagepub-com.lib-ezproxy.hkbu.edu.hk/doi/full/10.1177/0002764219869402)
 	
-	8. 
 	
 	
 	
@@ -62,6 +62,16 @@ Mapping Recent Development in Scholarship on Fake News and Misinformation, 2008 
 
 ## 3. Think about possible topics of your article and what arguments or key messages you want to deliver. 
 ## 4. The topics have to be related to those covered in this course. 
+### The Spread of Fake News：
+1. Organizational communication
+2. The warranting value
+3. Seven traditions in communication research
+
+### Reality Show:
+1. Hyperpersonal Perspective:selective self-presentation + overattribution of similarity.
+2. Symbolic interaction and self(I;Me;Generalized other).
+3. Uncertainty reduction theory.
+4. Seven traditions in communication research
 
 	
 	
