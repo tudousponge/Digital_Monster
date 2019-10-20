@@ -1,9 +1,9 @@
 # Digital_Monster
 Our group project of COMM7320!
-1.CHU BINGYANG 19456492
-2.DUDUDU JIANGJIEYI 19451466
-3.ZHONG ZHILING 19451326
-4.YANG AILIN 19444540
+1. CHU BINGYANG 19456492
+2. DUDUDU JIANGJIEYI 19451466
+3. ZHONG ZHILING 19451326
+4. YANG AILIN 19444540
 
 # Outline (submit via email, on/before November 4) 
 	1. Start with a media and communication phenomenon/problem (MCPP) that interests you. 
