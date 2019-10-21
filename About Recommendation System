@@ -1,0 +1,35 @@
+### YANG Ailin_推荐系统＋group communication_COMM7320project
+
+•	What is the specific topic and MCPP you are interested in?
+A social networking system allows users to establish connections with other users by using recommendation system to push same 
+contents .For example, users can view the Wechat publish passages displaying the number of their friends who had read the 
+articles .And a relative function is named ’Top Stories’ in Wechat, users can receive the recommended articles computed by the 
+algorithm considering those articles that users’ friend would read.  
+
+•	What concepts and/or theories will be covered?
+群体传播理论(Group Communication)
+在群體交流中形成的一致性意見會產生群體傾向，群體傾向意味著無形的壓力，這種群體壓力能夠改變群體中個別人的不同意見，從而導致從眾行為。
+
+•	What are your possible arguments or key messages?
+(空)
+
+•	What academic papers will be used? (List at least three possibly relevant papers.)
+Modelling user behaviour in social network    
+https://patents.google.com/patent/WO2017214703A1/en
+
+•	What are other relevant references (e.g., trade reports, media reports, and secondary data) will be used?
+Content recommendation for groups
+https://patents.google.com/patent/US9311308B2/en
+Determining relevant information about the area of interest
+https://patents.google.com/patent/JP5612731B2/en
+Recommending content information based on user behavior
+https://patents.google.com/patent/EP2745254A2/en
+Social network based recommendation method and system
+https://patents.google.com/patent/US8489515B2/en
+Social media user recommendation system and method
+https://patentimages.storage.googleapis.com/1a/95/f9/80ac58913bc007/US9466071.pdf
+Recommending Users to a Social Networking System User Based on Relevance and Similarity Between Users
+https://patentimages.storage.googleapis.com/d8/41/31/930d241c0170cf/US20160147810A1.pdf
+Systems and methods for providing recommendations and explanations
+https://patentimages.storage.googleapis.com/0e/3f/a9/b34157853b653c/US10218800.pdf
+
