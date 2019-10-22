@@ -66,7 +66,7 @@ Mapping Recent Development in Scholarship on Fake News and Misinformation, 2008 
 1. Organizational communication
 2. The warranting value
 3. Seven traditions in communication research
-
+4. Agenda-Setting Theory(framing)
 ### Reality Show:
 1. Hyperpersonal Perspective:selective self-presentation + overattribution of similarity.
 2. Symbolic interaction and self(I;Me;Generalized other).
